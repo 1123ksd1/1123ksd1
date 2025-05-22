@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=500&section=header&text=welcome%20&fontSize=100)
+##🌈 Read Me 🌈
+코딩을 너무 어려워하는 전자과 코린이 담소입니당
 
 ## 🛠 Tech Stack 🛠
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)

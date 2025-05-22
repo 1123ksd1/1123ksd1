@@ -25,4 +25,13 @@ Here are some ideas to get you started:
 ![ATmega](https://img.shields.io/badge/ATmega-E64A19?style=flat&logo=ATmega&logoColor=white)
 
 
+## 🎳 About Me 🎳
+<a href="https://www.notion.so/d93038e78503490ea9692bbc89023807">
+    <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+</a>
+<a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white"/>
+
 

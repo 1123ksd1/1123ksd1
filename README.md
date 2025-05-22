@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/linuxFCC624?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/stmicroelectronics03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/linuxFCC624?style=flat&logo=c&logoColor=white"/>

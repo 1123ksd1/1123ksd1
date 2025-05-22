@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/linuxFCC624?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/stmicroelectronics03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/linuxFCC624?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/ATmega-5C3EE8?style=flat&logo=ATmega&logoColor=white"/>
+
+
+
